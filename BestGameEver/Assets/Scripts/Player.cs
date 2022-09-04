@@ -4,10 +4,9 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    void NewFunction()
     {
-        
+
     }
 
     // Update is called once per frame
